@@ -7,3 +7,5 @@ On the other hand, an interface is like a checklist that each worker has to foll
 Abstract classes provide more specific details about the parts that need to be included in a car, while interfaces provide a more general set of requirements that every car must meet.
 
 Abstract classes are more rigid in terms of the blueprint that needs to be followed, while interfaces are more flexible in terms of allowing for different designs as long as they meet the requirements.
+
+Thank you for reading
